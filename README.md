@@ -59,11 +59,10 @@ gcc Task3.c -o task3 -loqs -lcrypto -lssl
 - Compare **digital signatures** across PQC and classical algorithms.  
 - Gain hands-on experience with **liboqs** and **OpenSSL** integration.  
 
----
 
-## 📌 Notes
-
-- Ensure `liboqs` is correctly installed and linked.  
-- Some algorithms may not be available depending on your liboqs build configuration.  
-- This project is for **educational purposes** and not production use.  
+  ---
+  
+## 👤 Author
+Dr. SowmyaDev Maity || Akshit || Meharvan || Sanket || Vaibhav
+- 💡 Exploring Quantum-Safe Cryptography with liboqs
   
